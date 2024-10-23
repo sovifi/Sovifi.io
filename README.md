@@ -1,11 +1,5 @@
 # Sovifi: Revolutionizing Music Fan Clubs with Blockchain
 
-![GitHub stars](https://img.shields.io/github/stars/sovifi/Sovifi.io?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sovifi/Sovifi.io?style=social)
-![License](https://img.shields.io/github/license/sovifi/Sovifi.io)
-![Version](https://img.shields.io/github/package-json/v/sovifi/Sovifi.io)
-![Last Commit](https://img.shields.io/github/last-commit/sovifi/Sovifi.io)
-
 ## Project Status
 
 ⚠️ **Please Note**: Sovifi is currently in active development (Phase 1 MVP). Some features described may be partially implemented or planned for future releases.
